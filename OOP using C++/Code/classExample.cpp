@@ -18,3 +18,5 @@ int main()
     myObj.y = 50;       // Not allowed (private)
     return 0;
 }
+
+
